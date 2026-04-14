@@ -1,5 +1,7 @@
 {
   "client": "PICO",
   "name": "PICO California",
-  "updated": "2026-04-13"
+  "updated": "2026-04-13",
+  "clientName": "PICO California",
+  "clientInitials": "PICO"
 }

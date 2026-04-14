@@ -11,9 +11,9 @@ const DATA = {
   period: "Current Period",
 
   email: {
-    totalSends: 21,
-    avgOpenRate: 0.5371,
-    avgClickRate: 0.0301,
+    totalSends: 0,
+    avgOpenRate: 0,
+    avgClickRate: 0,
     listSize180DO: 0,
   },
 
